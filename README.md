@@ -1,1 +1,1 @@
-# Repo Head First Javascript Programming
+# Repo Head First Javascript Programming Course
